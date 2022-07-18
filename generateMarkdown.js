@@ -284,7 +284,7 @@ function generateMarkdown(data) {
   ## Tests
   ${data.testing}
   ## Questions?
-  ### Reach me here: 
+  ### If you have any questions you can reach me here: 
   [${data.github}](https://github.com/${data.github})  
   ${data.email}
 
