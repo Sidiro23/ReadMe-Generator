@@ -28,7 +28,7 @@ const questions = ()=> {
     },
     {
       type: 'input',
-      name: 'Usage',
+      name: 'usage',
       message: 'How do I use this application?',
     },
     {
