@@ -3,7 +3,7 @@
 # ReadMe Generator
 
 ## Link to Video Walkthrough:
-https://drive.google.com/file/d/1wtucWyftl6kW43tr9tLqgpLLjWFvdWQ9/view
+[https://drive.google.com/file/d/1wtucWyftl6kW43tr9tLqgpLLjWFvdWQ9/view](https://drive.google.com/file/d/1wtucWyftl6kW43tr9tLqgpLLjWFvdWQ9/view)
   ## Badges
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Table of Contents
