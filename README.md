@@ -21,7 +21,6 @@
   ## Usage
   To use this application open the index.js file in node and answer the questions on the prompt to generate the ReadMe file.
   ## How to Contribute
-  [Contributor Covenant](https://www.contributor-covenant.org/)  
   No contribution required
   ## Tests
   You can test the application by using it.

@@ -34,7 +34,7 @@ const questions = ()=> {
     {
       type: 'input',
       name: 'contributing',
-      message: 'How can i contribute to this application?',
+      message: 'How can I contribute to this application?',
     },
     {
       type: 'input',
@@ -52,12 +52,15 @@ const questions = ()=> {
       name: 'email',
       message: 'What is your e-mail?',
     },
+    {name: 'fileName',
+    message: 'What do you want to call this readme?',
+    type: 'input'},
   ])};
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
-  fs.appendFile(`readMe.md`, data,
-  (err)=>err ? console.error(err) : console.log(`readMe.md has been generated.`))
+  fs.appendFile(`${fileName}.md`, data,
+  (err)=>err ? console.error(err) : console.log(`${fileName}.md has been generated.`))
 }
 
 // TODO: Create a function to initialize app
